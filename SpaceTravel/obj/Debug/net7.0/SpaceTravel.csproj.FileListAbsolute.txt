@@ -37,3 +37,7 @@ C:\Users\Administrator\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net7.0\ref
 C:\Users\Administrator\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net7.0\SpaceTravel.pdb
 C:\Users\Administrator\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net7.0\SpaceTravel.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net7.0\ref\SpaceTravel.dll
+C:\Users\Administrator\source\repos\SpaceTravel\SpaceTravel\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\source\repos\SpaceTravel\SpaceTravel\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\source\repos\SpaceTravel\SpaceTravel\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\source\repos\SpaceTravel\SpaceTravel\bin\Debug\net7.0\System.Security.Permissions.dll
