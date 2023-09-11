@@ -1,0 +1,84 @@
+{
+    "galacticRoutes": [
+        {
+            "name": "Jordens Pendulfart",
+            "start": "Jorden",
+            "end": "Månens basis",
+            "navigationPoints": ["ISS Rumstation", "Armstrong Krater"],
+            "duration": "3 dage",
+            "dangers": ["Satellit skrot", "mikrometeoroider"],
+            "fuelUsage": "Moderat",
+            "description": "Denne rute er en grundlæggende forbindelse mellem Jorden og Månens forskningsbaser."
+        },
+        {
+            "name": "Mars Expressen",
+            "start": "Jorden",
+            "end": "Mars",
+            "navigationPoints": ["Asteroidbæltet", "Phobos", "Deimos"],
+            "duration": "6-8 måneder",
+            "dangers": ["Solstorme", "asteroider"],
+            "fuelUsage": "Højt",
+            "description": "En primær rute for dem, der søger efter nye eventyr på Den Røde Planet."
+        },
+        {
+            "name": "Voyager's Passage",
+            "start": "Saturn",
+            "end": "Uden for Solsystemet",
+            "navigationPoints": ["Titan", "Kuiper-bæltet", "Oort Sky"],
+            "duration": "40 år",
+            "dangers": ["Ukendt! Mange områder er endnu ikke fuldt udforsket."],
+            "fuelUsage": "Ekstremt højt",
+            "description": "For de sande opdagelsesrejsende! Følg i fodsporene på de tidlige rumsonder."
+        },
+        {
+            "name": "Neptuns Nætter",
+            "start": "Jupiter",
+            "end": "Neptun",
+            "navigationPoints": ["Europa", "Uranus"],
+            "duration": "3 år",
+            "dangers": ["Gasgigantens strålingsbælter", "isgejsere fra Europa"],
+            "fuelUsage": "Højt",
+            "description": "En betagende rute gennem de ydre gasgiganter."
+        },
+        {
+            "name": "Andromedas Port",
+            "start": "Uden for Solsystemet",
+            "end": "Andromeda Galaksen",
+            "navigationPoints": ["Proxima Centauri", "Interstellar Medium", "Messier 31 Kerne"],
+            "duration": "10 år",
+            "dangers": ["Ukendt rummateriale", "sorte huller", "intergalaktisk stråling"],
+            "fuelUsage": "Uendelig",
+            "description": "Kun for de mest avancerede og eventyrlystne piloter. Gennemse stjernerne til vores nærmeste galaktiske nabo."
+        },
+        {
+            "name": "Orions Odyssey",
+            "start": "Jorden",
+            "end": "Betelgeuse",
+            "navigationPoints": ["Rigel", "Orions Bælte", "Den Røde Superkæmpe Zone"],
+            "duration": "5 år",
+            "dangers": ["Supernova risiko", "stjernevind fra massive stjerner", "interstellart støv"],
+            "fuelUsage": "Massivt",
+            "description": "Denne rute er for dem, der ønsker at opleve skønheden ved en af universets mest kendte konstellationer oppefra og tæt på."
+        },
+        {
+            "name": "Galaktiske Havne Rundtur",
+            "start": "Mælkevejens centrum",
+            "end": "Mælkevejens centrum",
+            "navigationPoints": ["Sagittarius A*", "Carina Arm", "Cygnus Arm", "Perseus Arm"],
+            "duration": "10 år",
+            "dangers": ["Stjernetætheder i centrale regioner", "gravitationsfælder fra det supermassive sorte hul"],
+            "fuelUsage": "Højt",
+            "description": "En storslået rundtur i vores egen galakse, hvor rejsende kan opleve dens mange vidundere."
+        },
+        {
+            "name": "Kosmisk Kystline",
+            "start": "Plutos bane",
+            "end": "Den yderste kant af Kuiper-bæltet",
+            "navigationPoints": ["Haumea", "Eris", "Sedna"],
+            "duration": "10 år",
+            "dangers": ["Uforudsete asteroider", "ekstreme temperaturer", "ukendt rummateriale"],
+            "fuelUsage": "Moderat til lav",
+            "description": "En fortryllende rejse gennem Solsystemets kolde og mystiske ydre regioner, hvor få rumskibe har vovet sig."
+        }
+    ]
+}
